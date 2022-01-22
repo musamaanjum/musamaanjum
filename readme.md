@@ -1,12 +1,14 @@
 # Muhammad Usama Anjum
 
-I'm Kernel Engineer. I've 3+ years of experience in Operating Systems and Embedded Systems. My 20 patches have been accepted in [Linux Kernel Upstream](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Muhammad+Usama+Anjum&showmsg=1).
+I'm Linux Kernel Developer and open source advocate.
 
-![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musamaanjum&show_icons=true)
+* [Contributions in Linux Kernel](https://is.gd/MqQ9zP)
+* [Contributions on GitHub](https://is.gd/UFOeoH)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musamaanjum&show_icons=true)
 
 ### 💬 Get in touch
 
-- [Email](mailto:musamaanjum@gmail.com)
+- [Email](mailto:MUsamaAnjum@Gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/musamaanjum/)
 - [Twitter](https://twitter.com/musamanjum)
