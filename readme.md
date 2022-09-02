@@ -2,7 +2,7 @@
 
 I'm Linux Kernel Developer and open source advocate.
 
-* [Contributions in Linux Kernel](https://is.gd/MPDmWC)
+* [Contributions in Linux Kernel](https://is.gd/r3WFoz)
 * [Contributions on GitHub](https://is.gd/UFOeoH)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musamaanjum&show_icons=true)
